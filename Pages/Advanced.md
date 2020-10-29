@@ -102,7 +102,7 @@
 
 对此，我不做过多评论。我只大概介绍如何入门强化学习。
 
-首先，就是看书。Sutton 的《Introduction to reinforcement learning》<sup>[9]</sup> 可以说是必读圣经了。
+首先，就是看书。Sutton 的《Introduction to reinforcement learning》<sup>[8]</sup> 可以说是必读圣经了。
 
 你可以在 Github 找到 Python 版本的算法实现 [Python Implementation](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
